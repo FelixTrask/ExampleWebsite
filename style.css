@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: peachpuff;
+    font-family: 'Arial';
+    color: purple;
+}
+
+img {
+    width:500px
+}
+
+#blue-text {
+    color: blue;
+}
